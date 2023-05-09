@@ -6,8 +6,8 @@
   "scripts": {
     "cy:run": "cypress run",
     "cy:open": "cypress open",
-    "cy:run:chrome": "cypress run --config baseUrl=\"https://client-devtest.cloud-eshop.henkel-adhesives.com\" --e2e --browser chrome",
-    "cy:open:chrome": "cypress open --config baseUrl=\"https://client-devtest.cloud-eshop.henkel-adhesives.com\" --e2e --browser chrome",
+    "cy:run:chrome": "cypress run --config baseUrl=\"https://www.saucedemo.com/inventory.html\" --e2e --browser chrome",
+    "cy:open:chrome": "cypress open --config baseUrl=\"https://www.saucedemo.com/inventory.html\" --e2e --browser chrome",
 
     "test": "echo \"Error: no test specified\" && exit 1"
   },

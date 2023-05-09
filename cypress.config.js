@@ -7,7 +7,7 @@ module.exports = defineConfig({
     chromeWebSecurity: false,
   e2e: {
     specPattern: 'cypress/**/*.ts',
-    baseUrl: 'https://client-devtest.cloud-eshop.henkel-adhesives.com',
+    baseUrl: 'https://www.saucedemo.com',
     defaultCommandTimeout: 15000,
     requestTimeout: 15000,
     setupNodeEvents(on, config) {
